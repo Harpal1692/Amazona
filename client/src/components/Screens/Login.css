@@ -1,0 +1,22 @@
+.login {
+  min-height: 89.9vh;
+}
+
+.bg-image {
+  background-image: url("https://www.shutterstock.com/image-vector/amazon-vector-logo-editorial-icon-260nw-2308224611.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 500px;
+  margin: auto 0px;
+}
+
+.login-heading {
+  font-weight: 300;
+}
+
+.btn-login {
+  font-size: 0.9rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+}

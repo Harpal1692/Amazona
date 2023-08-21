@@ -1,0 +1,13 @@
+.logo_first{
+  list-style: none;
+  text-decoration: none;
+  color: white;
+  font-size: 33px;
+}
+.logo_first:hover{
+  color: white;
+}
+/* .main_back{
+  height: 600px;
+} */
+

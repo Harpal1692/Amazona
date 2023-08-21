@@ -1,0 +1,23 @@
+.rect {
+    --size: 1em;
+    --degrees: 0deg;
+    position: absolute;
+    width: var(--size);
+    aspect-ratio: 4/1;
+    top: calc(var(--size) / 2);
+    left: calc(var(--size) / 2);
+    background-color: #1d1d1d;
+    border-radius: 20px;
+    opacity: 0;
+    animation: animate-in;
+    animation-duration: 800ms;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: alternate;
+    animation-iteration-count: infinite;
+  }
+  .container {
+    width: var(--size);
+    border-radius: var(--radius);
+    aspect-ratio: 1;
+    position: relative;
+  }  
