@@ -1,0 +1,7 @@
+![Screenshot 2023-08-18 162952](https://github.com/Harpal1692/Amazona/assets/75742685/b63230bd-65f4-433f-b406-ba4d2ab55dda)
+![Screenshot 2023-08-18 163009](https://github.com/Harpal1692/Amazona/assets/75742685/9342a37a-b858-4dc3-b931-058d33a98111)
+![Screenshot 2023-08-18 163135](https://github.com/Harpal1692/Amazona/assets/75742685/d8b0f764-17d2-482e-b3cb-44b65818f8cc)
+![Screenshot 2023-08-18 163205](https://github.com/Harpal1692/Amazona/assets/75742685/815118c8-24e9-464e-bd66-dd005c26173e)
+![Screenshot 2023-08-18 163232](https://github.com/Harpal1692/Amazona/assets/75742685/5e35ba6d-d5b0-465b-9ead-213e2a9a1d3b)
+![Screenshot 2023-08-18 163308](https://github.com/Harpal1692/Amazona/assets/75742685/2e16d5ca-5422-4ce3-aed3-d662828b230c)
+![Screenshot 2023-08-18 163357](https://github.com/Harpal1692/Amazona/assets/75742685/a7d1f461-3d8b-4607-b836-b53b96839b98)
